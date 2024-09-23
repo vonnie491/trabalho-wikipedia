@@ -1,11 +1,11 @@
 body{
-  background-color:#EFEFEF;
+  background-color: #EFEFEF;
 }
 
 #logo{
   margin: 2% 0 0 5%;
-  width:25%;
-  height:21%;
+  width: 25%;
+  height: 21%;
 }
 
 .titulo{
@@ -27,8 +27,8 @@ body{
 }
 
 #mundo{
-  width:100%;
-  height:40%;
+  width: 100%;
+  height: 40%;
 }
 
 #barra2{
