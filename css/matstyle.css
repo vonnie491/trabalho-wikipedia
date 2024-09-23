@@ -1,27 +1,36 @@
+body{
+  background-color: #EFEFEF;
+}
+
+article{
+  padding-top: 5px;
+  margin: 0 5% 0 5%;
+  background-color: white;
+}
+
 #logo{
   margin: 2% 0 0 5%;
-  width:25%;
-  height:21%;
+  width: 25%;
+  height: 21%;
 }
+
 h1{
-  font-weight:bold;
+  font-weight: bold;
   font-style: italic;
   margin-left: 11%;
   font-size: 15px;
 }
-h2{
-  font-weight:bold;
-  font-size: 15px;
-  margin: 20px 0 0 11%;
-}
+
 hr{
   color: #CCCCCC;
-  margin: 0 7.5% 30px 7.5%;
+  margin: 0 7.5% 20px 7.5%;
 }
+
 #caixa{
   border: 1px solid black;
   margin: 30px 50% 0 8.5%;
 }
+
 #sumario{
   color: black;
   background-color: #70C3FF;
@@ -31,9 +40,17 @@ hr{
   display: flex;
   justify-content: center;
 }
+
 ul{
   margin-left: -15px;
 }
+
+h2{
+  font-weight: bold;
+  font-size: 15px;
+  margin: 20px 0 0 11%;
+}
+
 .conteudo{
   margin: 10px 8.5% 10px 8.5%;
 }
